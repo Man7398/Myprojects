@@ -1,0 +1,17 @@
+.star{
+    font-size:30px;
+     
+     color: #cfcfcc;
+     display: inline-block;
+}
+.over{
+    color:#f7c56a;          
+}
+.flix{
+color: yellow;
+}
+.rating{
+    margin: 30px 0;
+    font-weight: bold;
+    text-align: center;
+}
